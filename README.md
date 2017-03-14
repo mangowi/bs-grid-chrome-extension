@@ -1,4 +1,4 @@
-# Boostrap Grid Overlay - Chrome Extension
+# Bootstrap Grid Overlay - Chrome Extension
 
 ### Quick Setup
 
