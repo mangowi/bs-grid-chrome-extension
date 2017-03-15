@@ -1,6 +1,12 @@
 # Bootstrap Grid Overlay - Chrome Extension
 
-### Quick Setup
+## Install
+
+1. Add to Chrome from the [web store](https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg)
+2. ???
+3. Profit
+
+## Develop
 
 1. Clone repo `git clone https://github.com/1forh/bs-grid-chrome-extension.git`
 2. Go to `chrome://extensions` in your Chrome browser
