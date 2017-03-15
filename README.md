@@ -1,5 +1,8 @@
 # Bootstrap Grid Overlay - Chrome Extension
 
+Quickly toggle a Bootstrap Grid Overlay that automatically uses your application's styles to determine how it looks.
+Click the Bootstrap Grid Overlay icon to toggle the overlay on and off. If Bootstrap Grid Overlay finds the Bootstrap grid classes in any of your application's CSS files, a Bootstrap grid, based on those styles, will be displayed.
+
 ## Install
 
 1. Add to Chrome from the [web store](https://chrome.google.com/webstore/detail/bootstrap-grid-overlay/mnlklmelflkheijccafopdohgclfefcg)
