@@ -1,0 +1,31 @@
+#forh-bs-grid {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1000000;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+
+#forh-bs-grid > .container {
+	height: 100%;
+}
+
+#forh-bs-grid  > .container > .row {
+	height: 100%;
+}
+
+#forh-bs-grid [class*="col-"] {
+	position: relative;
+	height: 100%;
+	background-color: rgba(76, 199, 142, 0.2);
+}
+
+#forh-bs-grid [class*="col-"] > div {
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	background-color: rgba(76, 199, 142, 0.2);
+	opacity: 0.5;
+}

@@ -1,43 +1,43 @@
 function showGrid() {
 	$('body').append(`
-		<div id="forh-bs-grid" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 1000000; pointer-events: none;">
-			<div class="container" style="height: 100%;">
-				<div class="row" style="height: 100%;">
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+		<div id="forh-bs-grid">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-1">
+						<div>1</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>2</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>3</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>4</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>5</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>6</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>7</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>8</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>9</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>10</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>11</div>
 					</div>
-					<div class="col-xs-1" style="height: 100%; background-color: rgba(76, 199, 142, 0.2); position: relative">
-						<div style="background-color: rgba(76, 199, 142, 0.2); height: 100%;"></div>
+					<div class="col-xs-1">
+						<div>12</div>
 					</div>
 				</div>
 			</div>
